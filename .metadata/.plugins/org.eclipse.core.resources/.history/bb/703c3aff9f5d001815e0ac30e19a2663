@@ -1,0 +1,17 @@
+package demo;
+
+import java.io.File;
+
+public class testdemo {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Test case is starting");
+		File file = new File("c://temp//testFile1.txt");
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

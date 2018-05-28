@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Autofusion"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+<mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+<listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346318_VerifyPreviewQuestionsLo13_4"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346325_VerifyPreviewQuestionsLo14_3"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346337_VerifyPreviewQuestionsLo16_5"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346332_VerifyPreviewQuestionsLo15_5"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346314_VerifyPreviewQuestionsLo12_6"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346321_VerifyPreviewQuestionsLo13_7"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346338_VerifyPreviewQuestionsLo16_6"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346333_VerifyPreviewQuestionsLo16_1"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346336_VerifyPreviewQuestionsLo16_4"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346331_VerifyPreviewQuestionsLo15_4"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346326_VerifyPreviewQuestionsLo14_4"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346320_VerifyPreviewQuestionsLo13_6"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346313_VerifyPreviewQuestionsLo12_5"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346319_VerifyPreviewQuestionsLo13_5"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346307_VerifyPreviewQuestionsLo11_3"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346330_VerifyPreviewQuestionsLo15_3"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346311_VerifyPreviewQuestionsLo12_3"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346335_VerifyPreviewQuestionsLo16_3"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346327_VerifyPreviewQuestionsLo14_5"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346308_VerifyPreviewQuestionsLo11_4"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346309_VerifyPreviewQuestionsLo12_1"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346315_VerifyPreviewQuestionsLo13_1"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346312_VerifyPreviewQuestionsLo12_4"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346305_VerifyPreviewQuestionsLo11_1"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346317_VerifyPreviewQuestionsLo13_3"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346322_VerifyPreviewQuestionsLo14_1"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346339_VerifyPreviewQuestionsLo16_7"/>
+<listEntry value="com.test.glp_instructor_coreinstructor.GLP_346328_VerifyPreviewQuestionsLo15_1"/>
+</listAttribute>
+<listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+<listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+<stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+<intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>
